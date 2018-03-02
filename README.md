@@ -7,7 +7,7 @@ The Microsoft Security Response Center (MSRC) portal is located at https://porta
 
 ## Intent
 
-This repository is currently a working copy of another implementation of the MSRC-Microsoft-Security-Updates-API repository.
+* This repository is currently a working copy of another implementation of the MSRC-Microsoft-Security-Updates-API repository.
 
     * core format
         The original one works mainly with Json.
