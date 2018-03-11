@@ -29,6 +29,7 @@ The Microsoft Security Response Center (MSRC) portal is located at https://porta
         Write another html conversion mechanism leveraging built-in cmdlet such as ConvertTo-Htlm
 
     * cross-platform compatibility
+    
         Was the previous implementation compatible with PowerShell Core 6.x?
         Anyway, make sure this one is compatible.
 
