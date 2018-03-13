@@ -1,10 +1,10 @@
 Function Get-MSRCReleaseNoteId {
 <#
     .SYNOPSIS
-        Get the latest release notes from the MSRC portal
+        Get the latest release notes id from the MSRC portal
 
     .DESCRIPTION
-       Get the latest release notes from the MSRC portal
+       Get the latest release notes id from the MSRC portal
 
     .EXAMPLE
         Get-MSRCReleaseNoteId
