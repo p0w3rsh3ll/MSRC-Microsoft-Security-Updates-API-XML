@@ -33,7 +33,7 @@ Process {
         UseBasicParsing = [switch]::Present
         Uri = '{0}/{1}' -f $root,$Id
         Method =  'Get'
-        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0'
+        UserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0'
         Headers = @{
             Host ='portal.msrc.microsoft.com'
             Accept = 'application/json, text/plain, */*'
