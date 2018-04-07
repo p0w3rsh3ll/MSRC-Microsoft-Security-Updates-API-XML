@@ -477,7 +477,27 @@ $products = @(
 @{ ID = '11474' ; Name = 'Microsoft SQL Server 2008 for 32-bit Systems Service Pack 4 (QFE)' ; Family = 'SQL Server'},
 @{ ID = '11486' ; Name = 'Microsoft SQL Server 2008 R2 for 32-Bit Systems Service Pack 3 (QFE)' ; Family = 'SQL Server'},
 @{ ID = '11487' ; Name = 'Microsoft SQL Server 2008 R2 for x64-Based Systems Service Pack 3 (QFE)' ; Family = 'SQL Server'},
-@{ ID = '11488' ; Name = 'Microsoft SQL Server 2008 for x64-Based Systems Service Pack 4 (QFE)' ; Family = 'SQL Server'}
+@{ ID = '11488' ; Name = 'Microsoft SQL Server 2008 for x64-Based Systems Service Pack 4 (QFE)' ; Family = 'SQL Server'},
+@{ ID = '251-10378' ; Name = 'Windows Defender on Windows Server 2012' ; Family = 'Windows'},
+@{ ID = '251-10379' ; Name = 'Windows Defender on Windows Server 2012 (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '251-10483' ; Name = 'Windows Defender on Windows Server 2012 R2' ; Family = 'Windows'},
+@{ ID = '251-10543' ; Name = 'Windows Defender on Windows Server 2012 R2 (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '4862' ; Name = 'Microsoft Office 2007 Service Pack 2' ; Family = 'Microsoft Office'},
+@{ ID = '11476' ; Name = 'Microsoft SQL Server 2012 for 32-bit Systems Service Pack 4 (QFE)' ; Family = 'SQL Server'},
+@{ ID = '11477' ; Name = 'Microsoft SQL Server 2012 for x64-based Systems Service Pack 4 (QFE)' ; Family = 'SQL Server'},
+@{ ID = '11490' ; Name = 'Windows 10 Version 1607 for HoloLens' ; Family = 'Windows'},
+@{ ID = '11489' ; Name = 'PowerShell Core 6.0.0' ; Family = 'Developer Tools'},
+@{ ID = '11493' ; Name = 'Microsoft Exchange Server 2013 Cumulative Update 19' ; Family = 'Exchange Server'},
+@{ ID = '11492' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 8' ; Family = 'Exchange Server'},
+@{ ID = '11496' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 20' ; Family = 'Exchange Server'},
+@{ ID = '10797' ; Name = 'Microsoft Access 2013 Service Pack 1 (64-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10487' ; Name = 'Microsoft Access 2010 Service Pack 2 (32-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10488' ; Name = 'Microsoft Access 2010 Service Pack 2 (64-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10751' ; Name = 'Microsoft Access 2016 (32-bit edition)' ; Family = 'Microsoft Office'},
+@{ ID = '10752' ; Name = 'Microsoft Access 2016 (64-bit edition)' ; Family = 'Microsoft Office'},
+@{ ID = '10796' ; Name = 'Microsoft Access 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10323' ; Name = 'Microsoft Word 2013 (32-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10324' ; Name = 'Microsoft Word 2013 (64-bit editions)' ; Family = 'Microsoft Office'}
 )
 }
 Process {
