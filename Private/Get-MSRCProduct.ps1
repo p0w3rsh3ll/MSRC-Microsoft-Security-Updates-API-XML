@@ -497,7 +497,18 @@ $products = @(
 @{ ID = '10752' ; Name = 'Microsoft Access 2016 (64-bit edition)' ; Family = 'Microsoft Office'},
 @{ ID = '10796' ; Name = 'Microsoft Access 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'},
 @{ ID = '10323' ; Name = 'Microsoft Word 2013 (32-bit editions)' ; Family = 'Microsoft Office'},
-@{ ID = '10324' ; Name = 'Microsoft Word 2013 (64-bit editions)' ; Family = 'Microsoft Office'}
+@{ ID = '10324' ; Name = 'Microsoft Word 2013 (64-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10098' ; Name = 'Microsoft Visual Studio 2010 Service Pack 1' ; Family = 'Developer Tools'},
+@{ ID = '10326' ; Name = 'Microsoft Visual Studio 2012 Update 4' ; Family = 'Developer Tools'},
+@{ ID = '10566' ; Name = 'Microsoft Visual Studio 2013 Update 5' ; Family = 'Developer Tools'},
+@{ ID = '10577' ; Name = 'Microsoft Visual Studio 2015 Update 3' ; Family = 'Developer Tools'},
+@{ ID = '11500' ; Name = 'Microsoft Wireless Keyboard 850' ; Family = 'Developer Tools'},
+@{ ID = '11505' ; Name = 'Microsoft Visual Studio 2017' ; Family = 'Developer Tools'},
+@{ ID = '11506' ; Name = 'Microsoft Visual Studio 2017 Version 15.7 Preview' ; Family = 'Developer Tools'},
+@{ ID = '11507' ; Name = 'Microsoft Visual Studio 2017 Version 15.6.6' ; Family = 'Developer Tools'},
+@{ ID = '9171-11099' ; Name = 'Excel Services on Microsoft SharePoint Enterprise Server 2013 Service Pack 1' ; Family = 'Microsoft Office'},
+@{ ID = '10331' ; Name = 'Microsoft System Center 2012 Endpoint Protection' ; Family = 'System Center'},
+@{ ID = '11504' ; Name = 'Microsoft System Center 2012 R2 Endpoint Protection' ; Family = 'System Center'}
 )
 }
 Process {
