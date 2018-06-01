@@ -552,7 +552,13 @@ $products = @(
 @{ ID = '10799' ; Name = 'Microsoft Infopath 2013 Service Pack 1 (64-bit edition)' ; Family = 'Microsoft Office'},
 @{ ID = '11497' ; Name = 'Windows 10 Version 1803 for 32-bit Systems' ; Family = 'Windows'},
 @{ ID = '11498' ; Name = 'Windows 10 Version 1803 for x64-based Systems' ; Family = 'Windows'},
-@{ ID = '11499' ; Name = 'Windows Server, version 1803  (Server Core Installation)' ; Family = 'Windows'}
+@{ ID = '11499' ; Name = 'Windows Server, version 1803  (Server Core Installation)' ; Family = 'Windows'},
+@{ ID = '11457' ; Name = 'Microsoft Surface Studio' ; Family = 'Windows'},
+@{ ID = '11524' ; Name = 'Surface Pro with Advanced LTE Model 1807' ; Family = 'Windows'},
+@{ ID = '11521' ; Name = 'Microsoft Surface Laptop' ; Family = 'Windows'},
+@{ ID = '11520' ; Name = 'Microsoft Surface Book 2' ; Family = 'Windows'},
+@{ ID = '11523' ; Name = 'Surface Pro Model 1796' ; Family = 'Windows'},
+@{ ID = '11522' ; Name = 'To be determined' ; Family = 'Windows'}
 )
 }
 Process {
