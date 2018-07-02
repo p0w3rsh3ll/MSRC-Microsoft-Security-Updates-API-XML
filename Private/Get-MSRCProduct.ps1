@@ -558,7 +558,9 @@ $products = @(
 @{ ID = '11521' ; Name = 'Microsoft Surface Laptop' ; Family = 'Windows'},
 @{ ID = '11520' ; Name = 'Microsoft Surface Book 2' ; Family = 'Windows'},
 @{ ID = '11523' ; Name = 'Surface Pro Model 1796' ; Family = 'Windows'},
-@{ ID = '11522' ; Name = 'To be determined' ; Family = 'Windows'}
+@{ ID = '11522' ; Name = 'To be determined' ; Family = 'Windows'},
+@{ ID = '11526' ; Name = 'Microsoft Exchange Server 2016' ; Family = 'Exchange Server'},
+@{ ID = '11525' ; Name = 'Updates forthcoming' ; Family = 'Windows'}
 )
 }
 Process {
