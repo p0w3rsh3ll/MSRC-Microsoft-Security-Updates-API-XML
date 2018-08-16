@@ -616,7 +616,19 @@ $products = @(
 @{ ID = '11532-10855' ; Name = 'Microsoft .NET Framework 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2016  (Server Core installation)' ; Family = 'Developer Tools'},
 @{ ID = '11539' ; Name = 'Microsoft Research JavaScript Cryptography Library' ; Family = 'Developer Tools'},
 @{ ID = '11545' ; Name = '.NET Framework 4.7.2 Developer Pack' ; Family = 'Developer Tools'},
-@{ ID = '11547' ; Name = 'Mail, Calendar, and People in Windows 8.1 App Store' ; Family = 'Downloads'}
+@{ ID = '11547' ; Name = 'Mail, Calendar, and People in Windows 8.1 App Store' ; Family = 'Downloads'},
+@{ ID = '11556' ; Name = 'Microsoft Visual Studio 2017 Version 15.8' ; Family = 'Developer Tools'},
+@{ ID = '11549' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 23' ; Family = 'Exchange Server'},
+@{ ID = '11527' ; Name = 'Microsoft Exchange Server 2013 Cumulative Update 21' ; Family = 'Exchange Server'},
+@{ ID = '11548' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 10' ; Family = 'Exchange Server'},
+@{ ID = '10909' ; Name = 'Microsoft Outlook 2016 Click-to-Run (C2R) for 32-bit editions' ; Family = 'Microsoft Office'},
+@{ ID = '10910' ; Name = 'Microsoft Outlook 2016 Click-to-Run (C2R) for 64-bit editions' ; Family = 'Microsoft Office'},
+@{ ID = '11554' ; Name = 'Microsoft SQL Server 2016 for x64-based Systems Service Pack 2' ; Family = 'SQL Server'},
+@{ ID = '11555' ; Name = 'Microsoft SQL Server 2016 for x64-based Systems Service Pack 2 (CU)' ; Family = 'SQL Server'},
+@{ ID = '11558' ; Name = 'Expression Blend 2 Service Pack 2' ; Family = 'Developer Tools'},
+@{ ID = '11557' ; Name = 'Expression Blend 3 Service Pack 1' ; Family = 'Developer Tools'},
+@{ ID = '11551' ; Name = 'PowerShell Core 6.1' ; Family = 'Developer Tools'},
+@{ ID = '11550' ; Name = 'PowerShell Core 6.0' ; Family = 'Developer Tools'}
 )
 }
 Process {
