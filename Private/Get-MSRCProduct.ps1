@@ -628,7 +628,11 @@ $products = @(
 @{ ID = '11558' ; Name = 'Expression Blend 2 Service Pack 2' ; Family = 'Developer Tools'},
 @{ ID = '11557' ; Name = 'Expression Blend 3 Service Pack 1' ; Family = 'Developer Tools'},
 @{ ID = '11551' ; Name = 'PowerShell Core 6.1' ; Family = 'Developer Tools'},
-@{ ID = '11550' ; Name = 'PowerShell Core 6.0' ; Family = 'Developer Tools'}
+@{ ID = '11550' ; Name = 'PowerShell Core 6.0' ; Family = 'Developer Tools'},
+@{ ID = '11566' ; Name = 'System.IO.Pipelines' ; Family = 'Developer Tools'},
+@{ ID = '11562' ; Name = 'Microsoft.Data.OData' ; Family = 'Developer Tools'},
+@{ ID = '11564' ; Name = 'ASP.NET Core 2.1' ; Family = 'Developer Tools'},
+@{ ID = '11565' ; Name = '.NET Core 2.1' ; Family = 'Developer Tools'}
 )
 }
 Process {
