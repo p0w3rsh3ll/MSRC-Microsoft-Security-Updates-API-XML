@@ -632,7 +632,27 @@ $products = @(
 @{ ID = '11566' ; Name = 'System.IO.Pipelines' ; Family = 'Developer Tools'},
 @{ ID = '11562' ; Name = 'Microsoft.Data.OData' ; Family = 'Developer Tools'},
 @{ ID = '11564' ; Name = 'ASP.NET Core 2.1' ; Family = 'Developer Tools'},
-@{ ID = '11565' ; Name = '.NET Core 2.1' ; Family = 'Developer Tools'}
+@{ ID = '11565' ; Name = '.NET Core 2.1' ; Family = 'Developer Tools'},
+@{ ID = '10486-11568' ; Name = 'Internet Explorer 11 on Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10486-11570' ; Name = 'Internet Explorer 11 on Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10486-11569' ; Name = 'Internet Explorer 11 on Windows 10 Version 1809 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '10486-11571' ; Name = 'Internet Explorer 11 on Windows Server 2019' ; Family = 'Browser'},
+@{ ID = '10724-11568' ; Name = 'Microsoft Edge on Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10724-11570' ; Name = 'Microsoft Edge on Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10724-11569' ; Name = 'Microsoft Edge on Windows 10 Version 1809 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '10724-11571' ; Name = 'Microsoft Edge on Windows Server 2019' ; Family = 'Browser'},
+@{ ID = '11579' ; Name = 'SQL Server Management Studio 17.9' ; Family = 'Developer Tools'},
+@{ ID = '11580' ; Name = 'SQL Server Management Studio 18.0 (Preview 4)' ; Family = 'Developer Tools'},
+@{ ID = '11581' ; Name = 'Hub Device Client SDK for Azure IoT' ; Family = 'Developer Tools'},
+@{ ID = '1541' ; Name = 'Microsoft PowerPoint Viewer 2007' ; Family = 'Microsoft Office'},
+@{ ID = '11577' ; Name = 'Office 365 ProPlus for 32-bit Systems' ; Family = 'Microsoft Office'},
+@{ ID = '11573' ; Name = 'Microsoft Office 2019 for 32-bit editions' ; Family = 'Microsoft Office'},
+@{ ID = '11578' ; Name = 'Office 365 ProPlus for 64-bit Systems' ; Family = 'Microsoft Office'},
+@{ ID = '11574' ; Name = 'Microsoft Office 2019 for 64-bit editions' ; Family = 'Microsoft Office'},
+@{ ID = '11569' ; Name = 'Windows 10 Version 1809 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '11568' ; Name = 'Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '11572' ; Name = 'Windows Server 2019  (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '11571' ; Name = 'Windows Server 2019' ; Family = 'Windows'}
 )
 }
 Process {
