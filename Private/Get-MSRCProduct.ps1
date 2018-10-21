@@ -652,7 +652,9 @@ $products = @(
 @{ ID = '11569' ; Name = 'Windows 10 Version 1809 for x64-based Systems' ; Family = 'Windows'},
 @{ ID = '11568' ; Name = 'Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Windows'},
 @{ ID = '11572' ; Name = 'Windows Server 2019  (Server Core installation)' ; Family = 'Windows'},
-@{ ID = '11571' ; Name = 'Windows Server 2019' ; Family = 'Windows'}
+@{ ID = '11571' ; Name = 'Windows Server 2019' ; Family = 'Windows'},
+@{ ID = '11582' ; Name = 'Azure IoT Edge' ; Family = 'Developer Tools'},
+@{ ID = '11584' ; Name = 'Yammer Desktop App' ; Family = 'Downloads'}
 )
 }
 Process {
