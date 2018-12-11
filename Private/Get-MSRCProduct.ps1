@@ -683,7 +683,26 @@ $products = @(
 @{ ID = '10760' ; Name = 'Microsoft Project 2016 (32-bit edition)' ; Family = 'Microsoft Office'},
 @{ ID = '11583' ; Name = 'Windows 10 Version 1709 for ARM64-based Systems' ; Family = 'Windows'},
 @{ ID = '11563' ; Name = 'Windows 10 Version 1803 for ARM64-based Systems' ; Family = 'Windows'},
-@{ ID = '11570' ; Name = 'Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Windows'}
+@{ ID = '11570' ; Name = 'Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '10384-11571' ; Name = 'Adobe Flash Player on Windows Server 2019' ; Family = 'Adobe'},
+@{ ID = '2472-11568' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11569' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1809 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11571' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server 2019' ; Family = 'Developer Tools'},
+@{ ID = '2472-11572' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server 2019  (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11513-11568' ; Name = 'Microsoft .NET Framework 4.7.2 on Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11513-11569' ; Name = 'Microsoft .NET Framework 4.7.2 on Windows 10 Version 1809 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11513-11571' ; Name = 'Microsoft .NET Framework 4.7.2 on Windows Server 2019' ; Family = 'Developer Tools'},
+@{ ID = '11513-11572' ; Name = 'Microsoft .NET Framework 4.7.2 on Windows Server 2019  (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '10900-10729' ; Name = 'Microsoft .NET Framework 4.6.2 on Windows 10 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '10900-10735' ; Name = 'Microsoft .NET Framework 4.6.2 on Windows 10 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11535-11583' ; Name = 'Microsoft .NET Framework 4.7.1/4.7.2 on Windows 10 Version 1709 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11600' ; Name = 'Microsoft Visual Studio 2017 version 15.9' ; Family = 'Developer Tools'},
+@{ ID = '11601' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 11' ; Family = 'Exchange Server'},
+@{ ID = '11603' ; Name = 'Microsoft Dynamics NAV 2017' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11602' ; Name = 'Microsoft Dynamics NAV 2016' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11604' ; Name = 'Windows Azure Pack Rollup 13.1' ; Family = 'Windows'},
+@{ ID = '10801' ; Name = 'Microsoft Project 2013 Service Pack 1 (64-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10800' ; Name = 'Microsoft Project 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'}
 )
 }
 Process {
