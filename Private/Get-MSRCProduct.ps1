@@ -702,7 +702,18 @@ $products = @(
 @{ ID = '11602' ; Name = 'Microsoft Dynamics NAV 2016' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11604' ; Name = 'Windows Azure Pack Rollup 13.1' ; Family = 'Windows'},
 @{ ID = '10801' ; Name = 'Microsoft Project 2013 Service Pack 1 (64-bit editions)' ; Family = 'Microsoft Office'},
-@{ ID = '10800' ; Name = 'Microsoft Project 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'}
+@{ ID = '10800' ; Name = 'Microsoft Project 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '7683-9312' ; Name = 'Microsoft .NET Framework 3.5 Service Pack 1 on Windows Server 2008 for 32-bit Systems Service Pack 2' ; Family = 'Developer Tools'},
+@{ ID = '7683-9311' ; Name = 'Microsoft .NET Framework 3.5 Service Pack 1 on Windows Server 2008 for Itanium-Based Systems Service Pack 2' ; Family = 'Developer Tools'},
+@{ ID = '7683-9318' ; Name = 'Microsoft .NET Framework 3.5 Service Pack 1 on Windows Server 2008 for x64-based Systems Service Pack 2' ; Family = 'Developer Tools'},
+@{ ID = '2472-11583' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1709 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11563' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1803 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11513-11563' ; Name = 'Microsoft .NET Framework 4.7.2 on Windows 10 Version 1803 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11610' ; Name = 'ASP.NET Core 2.2' ; Family = 'Developer Tools'},
+@{ ID = '11608' ; Name = '.NET Core 2.2' ; Family = 'Developer Tools'},
+@{ ID = '11606' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 25' ; Family = 'Exchange Server'},
+@{ ID = '11611' ; Name = 'Skype 8.35 when installed on Android Devices' ; Family = 'Microsoft Office'},
+@{ ID = '11605' ; Name = 'Microsoft Office Online Server' ; Family = 'Microsoft Office'}
 )
 }
 Process {
