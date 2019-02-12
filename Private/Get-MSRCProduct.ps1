@@ -713,7 +713,18 @@ $products = @(
 @{ ID = '11608' ; Name = '.NET Core 2.2' ; Family = 'Developer Tools'},
 @{ ID = '11606' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 25' ; Family = 'Exchange Server'},
 @{ ID = '11611' ; Name = 'Skype 8.35 when installed on Android Devices' ; Family = 'Microsoft Office'},
-@{ ID = '11605' ; Name = 'Microsoft Office Online Server' ; Family = 'Microsoft Office'}
+@{ ID = '11605' ; Name = 'Microsoft Office Online Server' ; Family = 'Microsoft Office'},
+@{ ID = '11622' ; Name = 'Visual Studio Code' ; Family = 'Developer Tools'},
+@{ ID = '11616' ; Name = 'Team Foundation Server 2018 Update 3.2' ; Family = 'Developer Tools'},
+@{ ID = '11619' ; Name = 'Microsoft Exchange Server 2013 Cumulative Update 22' ; Family = 'Exchange Server'},
+@{ ID = '11621' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 1' ; Family = 'Exchange Server'},
+@{ ID = '11620' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 12' ; Family = 'Exchange Server'},
+@{ ID = '11618' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 26' ; Family = 'Exchange Server'},
+@{ ID = '11614' ; Name = 'Team Foundation Server 2018 Updated 1.2' ; Family = 'Developer Tools'},
+@{ ID = '11617' ; Name = 'PowerShell Core 6.2' ; Family = 'Developer Tools'},
+@{ ID = '11615' ; Name = 'Team Foundation Server 2017 Update 3.1' ; Family = 'Developer Tools'},
+@{ ID = '11616' ; Name = 'Team Foundation Server 2018 Update 3.2' ; Family = 'Developer Tools'},
+@{ ID = '11613' ; Name = 'Skype for Business Server 2015 CU 8' ; Family = 'Microsoft Office'}
 )
 }
 Process {
