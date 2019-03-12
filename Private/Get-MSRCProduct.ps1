@@ -724,7 +724,23 @@ $products = @(
 @{ ID = '11617' ; Name = 'PowerShell Core 6.2' ; Family = 'Developer Tools'},
 @{ ID = '11615' ; Name = 'Team Foundation Server 2017 Update 3.1' ; Family = 'Developer Tools'},
 @{ ID = '11616' ; Name = 'Team Foundation Server 2018 Update 3.2' ; Family = 'Developer Tools'},
-@{ ID = '11613' ; Name = 'Skype for Business Server 2015 CU 8' ; Family = 'Microsoft Office'}
+@{ ID = '11613' ; Name = 'Skype for Business Server 2015 CU 8' ; Family = 'Microsoft Office'},
+@{ ID = '11634' ; Name = 'Nuget 4.3.1' ; Family = 'Developer Tools'},
+@{ ID = '11637' ; Name = 'Nuget 4.6.3' ; Family = 'Developer Tools'},
+@{ ID = '11642' ; Name = 'Mono Framework Version 5.20.0' ; Family = 'Developer Tools'},
+@{ ID = '11630-11464' ; Name = '.NET Core SDK 1.1 on .NET Core 1.1' ; Family = 'Developer Tools'},
+@{ ID = '11641' ; Name = 'Mono Framework Version 5.18.0.223' ; Family = 'Developer Tools'},
+@{ ID = '10959' ; Name = 'Visual Studio for Mac' ; Family = 'Developer Tools'},
+@{ ID = '11639' ; Name = 'Nuget 4.8.2' ; Family = 'Developer Tools'},
+@{ ID = '11636' ; Name = 'Nuget 4.5.2' ; Family = 'Developer Tools'},
+@{ ID = '11635' ; Name = 'Nuget 4.4.2' ; Family = 'Developer Tools'},
+@{ ID = '11638' ; Name = 'Nuget 4.7.2' ; Family = 'Developer Tools'},
+@{ ID = '11624-11463' ; Name = '.NET Core SDK 1.1 on .NET Core 1.0' ; Family = 'Developer Tools'},
+@{ ID = '11640' ; Name = 'Nuget 4.9.4' ; Family = 'Developer Tools'},
+@{ ID = '11625' ; Name = '.NET Core SDK 2.1.500' ; Family = 'Developer Tools'},
+@{ ID = '11631' ; Name = 'UbuntuServer:18.04-LTS' ; Family = 'Downloads'},
+@{ ID = '11632' ; Name = 'Skype for Business Server 2015 March 2019 Update' ; Family = 'Microsoft Office'},
+@{ ID = '11633' ; Name = 'Microsoft Lync Server 2013 July 2018 Update' ; Family = 'Microsoft Office'}
 )
 }
 Process {
