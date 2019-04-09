@@ -740,7 +740,14 @@ $products = @(
 @{ ID = '11625' ; Name = '.NET Core SDK 2.1.500' ; Family = 'Developer Tools'},
 @{ ID = '11631' ; Name = 'UbuntuServer:18.04-LTS' ; Family = 'Downloads'},
 @{ ID = '11632' ; Name = 'Skype for Business Server 2015 March 2019 Update' ; Family = 'Microsoft Office'},
-@{ ID = '11633' ; Name = 'Microsoft Lync Server 2013 July 2018 Update' ; Family = 'Microsoft Office'}
+@{ ID = '11633' ; Name = 'Microsoft Lync Server 2013 July 2018 Update' ; Family = 'Microsoft Office'},
+@{ ID = '11652' ; Name = 'Open Enclave SDK' ; Family = 'Developer Tools'},
+@{ ID = '11649' ; Name = 'Azure DevOps Server 2019' ; Family = 'Developer Tools'},
+@{ ID = '11651' ; Name = 'Team Foundation Server 2015 Update 4.2' ; Family = 'Developer Tools'},
+@{ ID = '11629' ; Name = 'Windows Admin Center' ; Family = 'Windows'},
+@{ ID = '11626-11608' ; Name = '.NET Core SDK 2.2.100 on .NET Core 2.2' ; Family = 'Developer Tools'},
+@{ ID = '11643' ; Name = 'Azure Linux Guest Agent' ; Family = 'Developer Tools'},
+@{ ID = '11625-11565' ; Name = '.NET Core SDK 2.1.500 on .NET Core 2.1' ; Family = 'Developer Tools'}
 )
 }
 Process {
