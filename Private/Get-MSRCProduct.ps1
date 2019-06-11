@@ -802,7 +802,11 @@ $products = @(
 @{ ID = '11647' ; Name = 'Windows Server, version 1903 (Server Core installation)' ; Family = 'Windows'},
 @{ ID = '11645' ; Name = 'Windows 10 Version 1903 for x64-based Systems' ; Family = 'Windows'},
 @{ ID = '11644' ; Name = 'Windows 10 Version 1903 for 32-bit Systems' ; Family = 'Windows'},
-@{ ID = '11646' ; Name = 'Windows 10 Version 1903 for ARM64-based Systems' ; Family = 'Windows'}
+@{ ID = '11646' ; Name = 'Windows 10 Version 1903 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '11447-11447' ; Name = 'ChakraCore on ChakraCore' ; Family = 'Developer Tools'},
+@{ ID = '10066' ; Name = 'Microsoft Lync Server 2010' ; Family = 'Microsoft Office'},
+@{ ID = '10428' ; Name = 'Microsoft Lync Server 2013' ; Family = 'Microsoft Office'},
+@{ ID = '11673' ; Name = 'Windows 10 Version 1809 for HoloLens' ; Family = 'Windows'}
 )
 }
 Process {
