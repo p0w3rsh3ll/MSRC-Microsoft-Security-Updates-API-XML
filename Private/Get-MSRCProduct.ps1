@@ -836,7 +836,15 @@ $products = @(
 @{ ID = '11672' ; Name = 'Microsoft SQL Server 2014 Service Pack 3 for 32-bit Systems (CU+GDR)' ; Family = 'SQL Server'},
 @{ ID = '11667' ; Name = 'Microsoft SQL Server 2014 Service Pack 3 for x64-based Systems (GDR)' ; Family = 'SQL Server'},
 @{ ID = '11683' ; Name = 'Mail and Calendar' ; Family = 'Windows'},
-@{ ID = '11656' ; Name = 'Azure Automation' ; Family = 'Windows'}
+@{ ID = '11656' ; Name = 'Azure Automation' ; Family = 'Windows'},
+@{ ID = '11697' ; Name = 'ADAL.NET' ; Family = 'Developer Tools'},
+@{ ID = '11696' ; Name = 'Nuget 5.2.0' ; Family = 'Developer Tools'},
+@{ ID = '11692' ; Name = 'Microsoft Visual Studio 2019 version 16.2' ; Family = 'Developer Tools'},
+@{ ID = '10133' ; Name = 'Microsoft Exchange Online' ; Family = 'Exchange Server'},
+@{ ID = '10134' ; Name = 'Microsoft Office 365' ; Family = 'Microsoft Office'},
+@{ ID = '11653' ; Name = 'Outlook.com' ; Family = 'Microsoft Office'},
+@{ ID = '251-9311' ; Name = 'Windows Defender on Windows Server 2008 for Itanium-Based Systems Service Pack 2' ; Family = 'Windows'},
+@{ ID = '11693' ; Name = 'Microsoft Remote Desktop for Android' ; Family = 'Windows'}
 )
 }
 Process {
