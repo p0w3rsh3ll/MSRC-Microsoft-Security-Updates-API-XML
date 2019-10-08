@@ -844,7 +844,25 @@ $products = @(
 @{ ID = '10134' ; Name = 'Microsoft Office 365' ; Family = 'Microsoft Office'},
 @{ ID = '11653' ; Name = 'Outlook.com' ; Family = 'Microsoft Office'},
 @{ ID = '251-9311' ; Name = 'Windows Defender on Windows Server 2008 for Itanium-Based Systems Service Pack 2' ; Family = 'Windows'},
-@{ ID = '11693' ; Name = 'Microsoft Remote Desktop for Android' ; Family = 'Windows'}
+@{ ID = '11693' ; Name = 'Microsoft Remote Desktop for Android' ; Family = 'Windows'},
+@{ ID = '11699' ; Name = 'Rome SDK 1.4.1' ; Family = 'Developer Tools'},
+@{ ID = '11698' ; Name = 'ASP.NET Core 3.0' ; Family = 'Developer Tools'},
+@{ ID = '11701' ; Name = 'Azure DevOps Server 2019 Update 1' ; Family = 'Developer Tools'},
+@{ ID = '11700' ; Name = 'Yammer for Android' ; Family = 'Downloads'},
+@{ ID = '251-11583' ; Name = 'Windows Defender on Windows 10 Version 1709 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11497' ; Name = 'Windows Defender on Windows 10 Version 1803 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '251-11563' ; Name = 'Windows Defender on Windows 10 Version 1803 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11498' ; Name = 'Windows Defender on Windows 10 Version 1803 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11568' ; Name = 'Windows Defender on Windows 10 Version 1809 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '251-11570' ; Name = 'Windows Defender on Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11569' ; Name = 'Windows Defender on Windows 10 Version 1809 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11644' ; Name = 'Windows Defender on Windows 10 Version 1903 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '251-11646' ; Name = 'Windows Defender on Windows 10 Version 1903 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11645' ; Name = 'Windows Defender on Windows 10 Version 1903 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '251-11571' ; Name = 'Windows Defender on Windows Server 2019' ; Family = 'Windows'},
+@{ ID = '251-11572' ; Name = 'Windows Defender on Windows Server 2019  (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '251-11499' ; Name = 'Windows Defender on Windows Server, version 1803  (Server Core Installation)' ; Family = 'Windows'},
+@{ ID = '251-11647' ; Name = 'Windows Defender on Windows Server, version 1903 (Server Core installation)' ; Family = 'Windows'}
 )
 }
 Process {
