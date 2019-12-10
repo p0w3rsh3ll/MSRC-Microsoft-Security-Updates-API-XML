@@ -862,7 +862,27 @@ $products = @(
 @{ ID = '251-11571' ; Name = 'Windows Defender on Windows Server 2019' ; Family = 'Windows'},
 @{ ID = '251-11572' ; Name = 'Windows Defender on Windows Server 2019  (Server Core installation)' ; Family = 'Windows'},
 @{ ID = '251-11499' ; Name = 'Windows Defender on Windows Server, version 1803  (Server Core Installation)' ; Family = 'Windows'},
-@{ ID = '251-11647' ; Name = 'Windows Defender on Windows Server, version 1903 (Server Core installation)' ; Family = 'Windows'}
+@{ ID = '251-11647' ; Name = 'Windows Defender on Windows Server, version 1903 (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '11712' ; Name = 'Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '11715' ; Name = 'Windows Server, version 1909 (Server Core installation)' ; Family = 'Windows'},
+@{ ID = '11713' ; Name = 'Windows 10 Version 1909 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '11714' ; Name = 'Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '3700' ; Name = 'Microsoft Windows XP Service Pack 3' ; Family = 'Windows'},
+@{ ID = '11716' ; Name = 'Microsoft Authentication Library (MSAL) for Android' ; Family = 'Downloads'},
+@{ ID = '11717' ; Name = 'SQL Server 2017 Reporting Services' ; Family = 'SQL Server'},
+@{ ID = '11719' ; Name = 'Power BI Report Server' ; Family = 'SQL Server'},
+@{ ID = '11718' ; Name = 'SQL Server 2019 Reporting Services' ; Family = 'SQL Server'},
+@{ ID = '11720' ; Name = 'Microsoft Visual Studio 2019 version 16.4 (includes 16.0 - 16.3)' ; Family = 'Developer Tools'},
+@{ ID = '11709' ; Name = 'Microsoft Visual Studio 2017 version 16.0' ; Family = 'Developer Tools'},
+@{ ID = '11721' ; Name = 'Microsoft Visual Studio Live Share extension' ; Family = 'Developer Tools'},
+@{ ID = '11722' ; Name = 'Skype for Business Server 2019  CU2' ; Family = 'Microsoft Office'},
+@{ ID = '10486-11712' ; Name = 'Internet Explorer 11 on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10486-11714' ; Name = 'Internet Explorer 11 on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10486-11713' ; Name = 'Internet Explorer 11 on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '9237' ; Name = 'None Available' ; Family = ''},
+@{ ID = '11702' ; Name = 'SQL Server Management Studio 18.3' ; Family = 'Developer Tools'},
+@{ ID = '11706' ; Name = 'SQL Server Management Studio 18.3.1' ; Family = 'Developer Tools'},
+@{ ID = '11707' ; Name = 'Windows Update Assistant' ; Family = 'Windows'}
 )
 }
 Process {
