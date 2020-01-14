@@ -882,7 +882,26 @@ $products = @(
 @{ ID = '9237' ; Name = 'None Available' ; Family = ''},
 @{ ID = '11702' ; Name = 'SQL Server Management Studio 18.3' ; Family = 'Developer Tools'},
 @{ ID = '11706' ; Name = 'SQL Server Management Studio 18.3.1' ; Family = 'Developer Tools'},
-@{ ID = '11707' ; Name = 'Windows Update Assistant' ; Family = 'Windows'}
+@{ ID = '11707' ; Name = 'Windows Update Assistant' ; Family = 'Windows'},
+@{ ID = '11728' ; Name = 'ASP.NET Core 3.1' ; Family = 'Developer Tools'},
+@{ ID = '11730' ; Name = '.NET Core 3.1' ; Family = 'Developer Tools'},
+@{ ID = '11676-11712' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11715' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows Server, version 1909 (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11676-11713' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11677-11499' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows Server, version 1803  (Server Core Installation)' ; Family = 'Developer Tools'},
+@{ ID = '11677-10729' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11677-11497' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1803 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11677-11498' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1803 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11677-10735' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11723-10852' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6.2/4.7/4.7.1/4.7.2 on Windows 10 Version 1607 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11725-11453' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.1/4.7.2 on Windows 10 Version 1709 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11723-10816' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2016' ; Family = 'Developer Tools'},
+@{ ID = '11723-10855' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6.2/4.7/4.7.1/4.7.2 on Windows Server 2016  (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11723-10853' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6.2/4.7/4.7.1/4.7.2 on Windows 10 Version 1607 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11725-11454' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.1/4.7.2 on Windows 10 Version 1709 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11729' ; Name = '.NET Core 3.0' ; Family = 'Developer Tools'},
+@{ ID = '11726' ; Name = 'One Drive for Android' ; Family = 'Microsoft Office'},
+@{ ID = '0' ; Name = 'Dynamics 365 Field Service (on-premises) v7 series' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
