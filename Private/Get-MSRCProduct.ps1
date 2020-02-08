@@ -901,7 +901,8 @@ $products = @(
 @{ ID = '11725-11454' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.1/4.7.2 on Windows 10 Version 1709 for x64-based Systems' ; Family = 'Developer Tools'},
 @{ ID = '11729' ; Name = '.NET Core 3.0' ; Family = 'Developer Tools'},
 @{ ID = '11726' ; Name = 'One Drive for Android' ; Family = 'Microsoft Office'},
-@{ ID = '0' ; Name = 'Dynamics 365 Field Service (on-premises) v7 series' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11655' ; Name = 'Microsoft Edge (Chromium-based)' ; Family = 'Browser'},
+@{ ID = '11727' ; Name = 'Dynamics 365 Field Service (on-premises) v7 series' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
