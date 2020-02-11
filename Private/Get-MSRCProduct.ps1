@@ -902,7 +902,21 @@ $products = @(
 @{ ID = '11729' ; Name = '.NET Core 3.0' ; Family = 'Developer Tools'},
 @{ ID = '11726' ; Name = 'One Drive for Android' ; Family = 'Microsoft Office'},
 @{ ID = '11655' ; Name = 'Microsoft Edge (Chromium-based)' ; Family = 'Browser'},
-@{ ID = '11727' ; Name = 'Dynamics 365 Field Service (on-premises) v7 series' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11727' ; Name = 'Dynamics 365 Field Service (on-premises) v7 series' ; Family = 'Microsoft Dynamics'},
+@{ ID = '10724-11714' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10724-11712' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10724-11713' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '11704' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 3' ; Family = 'Exchange Server'},
+@{ ID = '11705' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 14' ; Family = 'Exchange Server'},
+@{ ID = '11732' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 15' ; Family = 'Exchange Server'},
+@{ ID = '11731' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 4' ; Family = 'Exchange Server'},
+@{ ID = '11733' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 30' ; Family = 'Exchange Server'},
+@{ ID = '11739' ; Name = 'Microsoft Surface Hub' ; Family = 'Device'},
+@{ ID = '11738' ; Name = 'Windows Malicious Software Removal Tool 32-bit' ; Family = 'System Center'},
+@{ ID = '11737' ; Name = 'Windows Malicious Software Removal Tool 64-bit' ; Family = 'System Center'},
+@{ ID = '10384-11712' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Other'},
+@{ ID = '10384-11714' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Other'},
+@{ ID = '10384-11713' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Other'}
 )
 }
 Process {
