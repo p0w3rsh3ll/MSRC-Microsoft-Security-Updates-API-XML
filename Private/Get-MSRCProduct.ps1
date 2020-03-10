@@ -916,7 +916,17 @@ $products = @(
 @{ ID = '11737' ; Name = 'Windows Malicious Software Removal Tool 64-bit' ; Family = 'System Center'},
 @{ ID = '10384-11712' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Other'},
 @{ ID = '10384-11714' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Other'},
-@{ ID = '10384-11713' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Other'}
+@{ ID = '10384-11713' ; Name = 'Adobe Flash Player on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Other'},
+@{ ID = '11735' ; Name = 'Azure DevOps Server 2019 Update 1.1' ; Family = 'Developer Tools'},
+@{ ID = '11741' ; Name = 'Remote Desktop Connection Manager 2.7' ; Family = 'Other'},
+@{ ID = '11740' ; Name = 'Application Inspector' ; Family = 'Open Source Software'},
+@{ ID = '11743' ; Name = 'Service Fabric' ; Family = 'Azure'},
+@{ ID = '11746' ; Name = 'Microsoft Dynamics NAV 2018' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11747' ; Name = 'Microsoft Dynamics NAV 2015' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11749' ; Name = 'Microsoft Dynamics 365 BC On Premise' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11750' ; Name = 'Dynamics 365 Business Central 2019 Spring Update' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11751' ; Name = 'Dynamics 365 Business Central 2019 Release Wave 2 (On-Premise)' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11748' ; Name = 'Microsoft Dynamics NAV 2013' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
