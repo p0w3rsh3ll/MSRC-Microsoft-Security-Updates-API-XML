@@ -926,7 +926,22 @@ $products = @(
 @{ ID = '11749' ; Name = 'Microsoft Dynamics 365 BC On Premise' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11750' ; Name = 'Dynamics 365 Business Central 2019 Spring Update' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11751' ; Name = 'Dynamics 365 Business Central 2019 Release Wave 2 (On-Premise)' ; Family = 'Microsoft Dynamics'},
-@{ ID = '11748' ; Name = 'Microsoft Dynamics NAV 2013' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11748' ; Name = 'Microsoft Dynamics NAV 2013' ; Family = 'Microsoft Dynamics'},
+@{ ID = '10749' ; Name = 'Microsoft Publisher 2016 (32-bit edition)' ; Family = 'Microsoft Office'},
+@{ ID = '10750' ; Name = 'Microsoft Publisher 2016 (64-bit edition)' ; Family = 'Microsoft Office'},
+@{ ID = '10609' ; Name = 'Microsoft Publisher 2013 Service Pack 1 (32-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '10610' ; Name = 'Microsoft Publisher 2013 Service Pack 1 (64-bit editions)' ; Family = 'Microsoft Office'},
+@{ ID = '11752' ; Name = 'OneDrive for Windows' ; Family = 'Microsoft Office'},
+@{ ID = '11744' ; Name = 'Windows Defender antimalware platform' ; Family = 'System Center'},
+@{ ID = '251-11712' ; Name = 'Windows Defender on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'System Center'},
+@{ ID = '251-11713' ; Name = 'Windows Defender on Windows 10 Version 1909 for x64-based Systems' ; Family = 'System Center'},
+@{ ID = '251-11714' ; Name = 'Windows Defender on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'System Center'},
+@{ ID = '251-11715' ; Name = 'Windows Defender on Windows Server, version 1909 (Server Core installation)' ; Family = 'System Center'},
+@{ ID = '11756' ; Name = 'Microsoft Visual Studio 2019 version 16.5' ; Family = 'Developer Tools'},
+@{ ID = '11757' ; Name = 'Dynamics 365 Server, version 9.0 (on-premises)' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11753' ; Name = 'Microsoft RMS Sharing for Mac' ; Family = 'Apps'},
+@{ ID = '11754' ; Name = 'Microsoft Remote Desktop for Mac' ; Family = 'Apps'},
+@{ ID = '11755' ; Name = 'Microsoft Your Phone Companion App for Android' ; Family = 'Apps'}
 )
 }
 Process {
