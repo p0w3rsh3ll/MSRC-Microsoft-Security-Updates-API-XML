@@ -941,7 +941,20 @@ $products = @(
 @{ ID = '11757' ; Name = 'Dynamics 365 Server, version 9.0 (on-premises)' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11753' ; Name = 'Microsoft RMS Sharing for Mac' ; Family = 'Apps'},
 @{ ID = '11754' ; Name = 'Microsoft Remote Desktop for Mac' ; Family = 'Apps'},
-@{ ID = '11755' ; Name = 'Microsoft Your Phone Companion App for Android' ; Family = 'Apps'}
+@{ ID = '11755' ; Name = 'Microsoft Your Phone Companion App for Android' ; Family = 'Apps'},
+@{ ID = '11759' ; Name = 'OpenSSL 1.1.1g' ; Family = 'Developer Tools'},
+@{ ID = '11758' ; Name = 'Paint 3D' ; Family = 'Apps'},
+@{ ID = '11760' ; Name = '3D Viewer' ; Family = 'Apps'},
+@{ ID = '11763' ; Name = 'Microsoft 365 Apps for Enterprise for 64-bit Systems' ; Family = 'Microsoft Office'},
+@{ ID = '11762' ; Name = 'Microsoft 365 Apps for Enterprise for 32-bit Systems' ; Family = 'Microsoft Office'},
+@{ ID = '11761' ; Name = '.NET Core 5.0' ; Family = 'Developer Tools'},
+@{ ID = '11677-11570' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1809 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11646' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1903 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11714' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11725-11583' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.1/4.7.2 on Windows 10 Version 1709 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11764-10729' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6/4.6.1/4.6.2 on Windows 10 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11764-10735' ; Name = 'Microsoft .NET Framework 3.5 AND 4.6/4.6.1/4.6.2 on Windows 10 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11677-11563' ; Name = 'Microsoft .NET Framework 3.5 AND 4.7.2 on Windows 10 Version 1803 for ARM64-based Systems' ; Family = 'Developer Tools'}
 )
 }
 Process {
