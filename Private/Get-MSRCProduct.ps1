@@ -1008,7 +1008,15 @@ $products = @(
 @{ ID = '11772' ; Name = 'Microsoft Word for Android' ; Family = 'Apps'},
 @{ ID = '11771' ; Name = 'Microsoft Bing Search for Android' ; Family = 'Apps'},
 @{ ID = '11774' ; Name = 'System Center 2016 Operations Manager' ; Family = 'System Center'},
-@{ ID = '11745' ; Name = 'PowerShell 7.0' ; Family = 'Developer Tools'}
+@{ ID = '11745' ; Name = 'PowerShell 7.0' ; Family = 'Developer Tools'},
+@{ ID = '11783' ; Name = 'Microsoft Visual Studio Code ESLint extension' ; Family = 'Developer Tools'},
+@{ ID = '11676-11768' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 2004 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11769' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows Server, version 2004 (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11676-11766' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 2004 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11767' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 2004 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11781' ; Name = 'Azure Storage Explorer' ; Family = 'Open Source Software'},
+@{ ID = '11782' ; Name = 'TypeScript' ; Family = 'Open Source Software'},
+@{ ID = '11780' ; Name = 'Bond 9.0.1' ; Family = 'Open Source Software'}
 )
 }
 Process {
