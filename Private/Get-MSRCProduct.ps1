@@ -1016,7 +1016,18 @@ $products = @(
 @{ ID = '11676-11767' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 2004 for ARM64-based Systems' ; Family = 'Developer Tools'},
 @{ ID = '11781' ; Name = 'Azure Storage Explorer' ; Family = 'Open Source Software'},
 @{ ID = '11782' ; Name = 'TypeScript' ; Family = 'Open Source Software'},
-@{ ID = '11780' ; Name = 'Bond 9.0.1' ; Family = 'Open Source Software'}
+@{ ID = '11780' ; Name = 'Bond 9.0.1' ; Family = 'Open Source Software'},
+@{ ID = '11784' ; Name = 'SQL Server Management Studio 18.6' ; Family = 'SQL Server'},
+@{ ID = '11785' ; Name = 'Microsoft Visual Studio 2019 version 16.7 (includes 16.0 – 16.6)' ; Family = 'Developer Tools'},
+@{ ID = '2472-11713' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1909 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11646' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1903 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11712' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1909 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11714' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 1909 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11715' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server, version 1909 (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '2472-11766' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11767' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11768' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '2472-11769' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server, version 2004 (Server Core installation)' ; Family = 'Developer Tools'}
 )
 }
 Process {
