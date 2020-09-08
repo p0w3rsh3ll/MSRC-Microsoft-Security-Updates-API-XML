@@ -1027,7 +1027,13 @@ $products = @(
 @{ ID = '2472-11766' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for 32-bit Systems' ; Family = 'Developer Tools'},
 @{ ID = '2472-11767' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for ARM64-based Systems' ; Family = 'Developer Tools'},
 @{ ID = '2472-11768' ; Name = 'Microsoft .NET Framework 3.5 on Windows 10 Version 2004 for x64-based Systems' ; Family = 'Developer Tools'},
-@{ ID = '2472-11769' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server, version 2004 (Server Core installation)' ; Family = 'Developer Tools'}
+@{ ID = '2472-11769' ; Name = 'Microsoft .NET Framework 3.5 on Windows Server, version 2004 (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11786' ; Name = 'Dynamics 365 for Finance and Operations' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11787' ; Name = 'xamarin.forms' ; Family = 'Open Source Software'},
+@{ ID = '11788' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 5' ; Family = 'Exchange Server'},
+@{ ID = '11789' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 6' ; Family = 'Exchange Server'},
+@{ ID = '11790' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 16' ; Family = 'Exchange Server'},
+@{ ID = '11791' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 17' ; Family = 'Exchange Server'}
 )
 }
 Process {
