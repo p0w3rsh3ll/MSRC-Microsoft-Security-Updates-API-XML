@@ -1033,7 +1033,13 @@ $products = @(
 @{ ID = '11788' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 5' ; Family = 'Exchange Server'},
 @{ ID = '11789' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 6' ; Family = 'Exchange Server'},
 @{ ID = '11790' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 16' ; Family = 'Exchange Server'},
-@{ ID = '11791' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 17' ; Family = 'Exchange Server'}
+@{ ID = '11791' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 17' ; Family = 'Exchange Server'},
+@{ ID = '11795' ; Name = 'Azure Functions' ; Family = 'Azure'},
+@{ ID = '11799' ; Name = 'Network Watcher Agent virtual machine extension for Linux' ; Family = 'Azure'},
+@{ ID = '11792' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 7' ; Family = 'Exchange Server'},
+@{ ID = '11793' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 18' ; Family = 'Exchange Server'},
+@{ ID = '11798' ; Name = 'PowerShellGet 2.2.5' ; Family = 'Developer Tools'},
+@{ ID = '11794' ; Name = 'Dynamics 365 Commerce' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
