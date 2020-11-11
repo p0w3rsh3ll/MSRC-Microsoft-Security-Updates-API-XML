@@ -1039,7 +1039,30 @@ $products = @(
 @{ ID = '11792' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 7' ; Family = 'Exchange Server'},
 @{ ID = '11793' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 18' ; Family = 'Exchange Server'},
 @{ ID = '11798' ; Name = 'PowerShellGet 2.2.5' ; Family = 'Developer Tools'},
-@{ ID = '11794' ; Name = 'Dynamics 365 Commerce' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11794' ; Name = 'Dynamics 365 Commerce' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11796' ; Name = 'Azure Sphere' ; Family = 'Azure'},
+@{ ID = '11686' ; Name = 'Microsoft Teams' ; Family = 'Microsoft Office'},
+@{ ID = '11800' ; Name = 'Windows 10 Version 20H2 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '11801' ; Name = 'Windows 10 Version 20H2 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '11802' ; Name = 'Windows 10 Version 20H2 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '11803' ; Name = 'Windows Server, version 20H2 (Server Core Installation)' ; Family = 'Windows'},
+@{ ID = '11804' ; Name = 'Raw Image Extension' ; Family = 'Windows'},
+@{ ID = '11805' ; Name = 'HEIF Image Extension' ; Family = 'Windows'},
+@{ ID = '11806' ; Name = 'WebP Image Extension' ; Family = 'Windows'},
+@{ ID = '11807' ; Name = 'AV1 Video Extension' ; Family = 'Windows'},
+@{ ID = '11808' ; Name = 'HEVC Video Extensions' ; Family = 'Windows'},
+@{ ID = '11809' ; Name = 'Microsoft Visual Studio 2019 version 16.8' ; Family = 'Developer Tools'},
+@{ ID = '10724-11800' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 20H2 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '10724-11801' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 20H2 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10724-11802' ; Name = 'Microsoft Edge (EdgeHTML-based) on Windows 10 Version 20H2 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10486-11801' ; Name = 'Internet Explorer 11 on Windows 10 Version 20H2 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '10486-11802' ; Name = 'Internet Explorer 11 on Windows 10 Version 20H2 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '10486-11800' ; Name = 'Internet Explorer 11 on Windows 10 Version 20H2 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '11810' ; Name = 'Dynamics 365 Commerce version 10.0.12' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11811' ; Name = 'Dynamics 365 Commerce version 10.0.13' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11812' ; Name = 'Dynamics 365 Commerce version 10.0.14' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11813' ; Name = 'Dynamics 365 Commerce version 10.0.15' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11814' ; Name = 'Dynamics 365 Commerce version 10.0.16' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
