@@ -1062,7 +1062,29 @@ $products = @(
 @{ ID = '11811' ; Name = 'Dynamics 365 Commerce version 10.0.13' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11812' ; Name = 'Dynamics 365 Commerce version 10.0.14' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11813' ; Name = 'Dynamics 365 Commerce version 10.0.15' ; Family = 'Microsoft Dynamics'},
-@{ ID = '11814' ; Name = 'Dynamics 365 Commerce version 10.0.16' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11814' ; Name = 'Dynamics 365 Commerce version 10.0.16' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11612' ; Name = 'Microsoft Dynamics NAV 2013 R2' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11491' ; Name = 'Microsoft Identity Manager 2016 Service Pack 1' ; Family = 'System Center'},
+@{ ID = '11567' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 24' ; Family = 'Exchange Server'},
+@{ ID = '10824' ; Name = 'Microsoft Surface Book' ; Family = 'Device'},
+@{ ID = '10820' ; Name = 'Microsoft Surface Pro 4' ; Family = 'Device'},
+@{ ID = '10819' ; Name = 'Microsoft Surface Pro 3' ; Family = 'Device'},
+@{ ID = '11694' ; Name = 'Microsoft Remote Desktop for IoS' ; Family = 'Apps'},
+@{ ID = '11679' ; Name = 'None affected' ; Family = 'Windows'},
+@{ ID = '11624-11464' ; Name = '.NET Core SDK 1.1 on .NET Core 1.1' ; Family = 'Developer Tools'},
+@{ ID = '9495-5867' ; Name = 'Microsoft .NET Framework 3.5.1 on Microsoft Windows Server 2003 x64 Edition Service Pack 2' ; Family = 'Developer Tools'},
+@{ ID = '11710' ; Name = 'Azure Stack' ; Family = 'Azure'},
+@{ ID = '11679' ; Name = 'None affected' ; Family = 'Windows'},
+@{ ID = '11711' ; Name = 'Microsoft Visual Studio 2019 version 16.3' ; Family = 'Developer Tools'},
+@{ ID = '11703' ; Name = 'Windows 10 Mobile' ; Family = 'Device'},
+@{ ID = '11708' ; Name = 'Windows Azure Pack Web Sites V2' ; Family = 'Developer Tools'},
+@{ ID = '11816' ; Name = 'Microsoft Exchange Server 2010 Service Pack 3 Update Rollup 31' ; Family = 'Exchange Server'},
+@{ ID = '11819' ; Name = 'Visual Studio Code Remote - SSH Extension' ; Family = 'Developer Tools'},
+@{ ID = '11820' ; Name = 'Visual Studio Code TS-Lint Extension' ; Family = 'Developer Tools'},
+@{ ID = '11826' ; Name = 'Visual Studio Code Language Support for Java Extension' ; Family = 'Developer Tools'},
+@{ ID = '11818' ; Name = 'Azure DevOps Server 2020' ; Family = 'Developer Tools'},
+@{ ID = '11817' ; Name = 'Azure SDK for Java' ; Family = 'Azure'},
+@{ ID = '11815' ; Name = 'Microsoft Edge for Android' ; Family = 'Browser'}
 )
 }
 Process {
