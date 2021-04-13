@@ -1134,7 +1134,32 @@ $products = @(
 @{ ID = '11846' ; Name = 'ASP.NET Core 5.0' ; Family = 'Developer Tools'},
 @{ ID = '11845' ; Name = 'Bot Framework SDK for .NET Framework' ; Family = 'Developer Tools'},
 @{ ID = '11847' ; Name = 'Bot Framework SDK for JavaScript' ; Family = 'Developer Tools'},
-@{ ID = '11848' ; Name = 'Bot Framework SDK for Python' ; Family = 'Developer Tools'}
+@{ ID = '11848' ; Name = 'Bot Framework SDK for Python' ; Family = 'Developer Tools'},
+@{ ID = '11872' ; Name = 'Microsoft Visual Studio 2019 version 16.9 (includes 16.0 - 16.8)' ; Family = 'Developer Tools'},
+@{ ID = '11882' ; Name = 'Visual Studio Code - Kubernetes Tools' ; Family = 'Developer Tools'},
+@{ ID = '11881' ; Name = 'Azure DevOps Server 2020.0.1' ; Family = 'Developer Tools'},
+@{ ID = '11886' ; Name = 'Visual Studio Code - GitHub Pull Requests and Issues Extension' ; Family = 'Developer Tools'},
+@{ ID = '11885' ; Name = 'Visual Studio Code - Maven for Java Extension' ; Family = 'Developer Tools'},
+@{ ID = '11884' ; Name = 'VP9 Video Extensions' ; Family = 'Windows'},
+@{ ID = '11883' ; Name = '@azure/ms-rest-nodeauth' ; Family = 'Azure'},
+@{ ID = '11888' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 20' ; Family = 'Exchange Server'},
+@{ ID = '11887' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 9' ; Family = 'Exchange Server'},
+@{ ID = '11864' ; Name = 'PowerShell Core 7.1' ; Family = 'Developer Tools'},
+@{ ID = '11865' ; Name = 'PowerShell Core 7.0' ; Family = 'Developer Tools'},
+@{ ID = '11874' ; Name = 'Visual Studio 2019 for Mac' ; Family = 'Developer Tools'},
+@{ ID = '11875' ; Name = 'Mono 6.12.0' ; Family = 'Developer Tools'},
+@{ ID = '11876' ; Name = 'Microsoft Quantum Development Kit for Visual Studio Code' ; Family = 'Developer Tools'},
+@{ ID = '11880' ; Name = 'Visual Studio Code  Remote - Containers Extension' ; Family = 'Developer Tools'},
+@{ ID = '11873' ; Name = 'Python extension for Visual Studio Code' ; Family = 'Developer Tools'},
+@{ ID = '11872' ; Name = 'Microsoft Visual Studio 2019 version 16.9 (includes 16.0 - 16.8)' ; Family = 'Developer Tools'},
+@{ ID = '11871' ; Name = 'Microsoft Visual Studio 2019 version 16.8 (includes 16.0 - 16.7)' ; Family = 'Developer Tools'},
+@{ ID = '11879' ; Name = 'Visual Studio Code - Java Extension Pack' ; Family = 'Developer Tools'},
+@{ ID = '11867' ; Name = 'Azure Service Fabric' ; Family = 'Azure'},
+@{ ID = '11869' ; Name = 'Azure Spring Cloud' ; Family = 'Azure'},
+@{ ID = '11866' ; Name = 'Azure Container Instance' ; Family = 'Azure'},
+@{ ID = '11870' ; Name = 'Azure Kubernetes Service' ; Family = 'Azure'},
+@{ ID = '11877' ; Name = 'Power BI Report Server version 15.0.1103.234' ; Family = 'SQL Server'},
+@{ ID = '11878' ; Name = 'Power BI Report Server version 15.0.1104.300' ; Family = 'SQL Server'}
 )
 }
 Process {
