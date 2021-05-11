@@ -1159,7 +1159,14 @@ $products = @(
 @{ ID = '11866' ; Name = 'Azure Container Instance' ; Family = 'Azure'},
 @{ ID = '11870' ; Name = 'Azure Kubernetes Service' ; Family = 'Azure'},
 @{ ID = '11877' ; Name = 'Power BI Report Server version 15.0.1103.234' ; Family = 'SQL Server'},
-@{ ID = '11878' ; Name = 'Power BI Report Server version 15.0.1104.300' ; Family = 'SQL Server'}
+@{ ID = '11878' ; Name = 'Power BI Report Server version 15.0.1104.300' ; Family = 'SQL Server'},
+@{ ID = '11889' ; Name = 'Web Media Extensions' ; Family = 'Windows'},
+@{ ID = '11895' ; Name = 'Visual Studio 2019 for Mac version 8.9' ; Family = 'Developer Tools'},
+@{ ID = '11894' ; Name = 'Skype for Business Server 2015 CU11' ; Family = 'Microsoft Office'},
+@{ ID = '11892' ; Name = 'Microsoft Lync Server 2013 CU10' ; Family = 'Microsoft Office'},
+@{ ID = '11893' ; Name = 'Skype for Business Server 2019 CU5' ; Family = 'Microsoft Office'},
+@{ ID = '11890' ; Name = 'common_utils.py' ; Family = 'Open Source Software'},
+@{ ID = '11891' ; Name = 'Microsoft Accessibility Insights for Web' ; Family = 'Azure'}
 )
 }
 Process {
