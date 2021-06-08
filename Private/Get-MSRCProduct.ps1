@@ -1166,7 +1166,14 @@ $products = @(
 @{ ID = '11892' ; Name = 'Microsoft Lync Server 2013 CU10' ; Family = 'Microsoft Office'},
 @{ ID = '11893' ; Name = 'Skype for Business Server 2019 CU5' ; Family = 'Microsoft Office'},
 @{ ID = '11890' ; Name = 'common_utils.py' ; Family = 'Open Source Software'},
-@{ ID = '11891' ; Name = 'Microsoft Accessibility Insights for Web' ; Family = 'Azure'}
+@{ ID = '11891' ; Name = 'Microsoft Accessibility Insights for Web' ; Family = 'Azure'},
+@{ ID = '11896' ; Name = 'Windows 10 Version 21H1 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '11897' ; Name = 'Windows 10 Version 21H1 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '11898' ; Name = 'Windows 10 Version 21H1 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '11900' ; Name = 'Microsoft Visual Studio 2019 version 16.10 (includes 16.0 - 16.9)' ; Family = 'Developer Tools'},
+@{ ID = '11901' ; Name = 'Visual Studio 2019 for Mac version 8.10' ; Family = 'Developer Tools'},
+@{ ID = '11899' ; Name = 'Intune management extension' ; Family = 'Apps'},
+@{ ID = '11902' ; Name = 'Microsoft Malware Protection Engine' ; Family = 'System Center'}
 )
 }
 Process {
