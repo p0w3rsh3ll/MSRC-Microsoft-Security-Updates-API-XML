@@ -1173,7 +1173,14 @@ $products = @(
 @{ ID = '11900' ; Name = 'Microsoft Visual Studio 2019 version 16.10 (includes 16.0 - 16.9)' ; Family = 'Developer Tools'},
 @{ ID = '11901' ; Name = 'Visual Studio 2019 for Mac version 8.10' ; Family = 'Developer Tools'},
 @{ ID = '11899' ; Name = 'Intune management extension' ; Family = 'Apps'},
-@{ ID = '11902' ; Name = 'Microsoft Malware Protection Engine' ; Family = 'System Center'}
+@{ ID = '11902' ; Name = 'Microsoft Malware Protection Engine' ; Family = 'System Center'},
+@{ ID = '11906' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 21' ; Family = 'Exchange Server'},
+@{ ID = '11908' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 10' ; Family = 'Exchange Server'},
+@{ ID = '11909' ; Name = '.NET Education Bundle SDK Install Tool' ; Family = 'Developer Tools'},
+@{ ID = '11910' ; Name = '.NET Install Tool for Extension Authors' ; Family = 'Developer Tools'},
+@{ ID = '11911' ; Name = 'Microsoft Dynamics 365 Business Central 2020 Release Wave 1 - Update 16.14' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11913' ; Name = 'Microsoft Dynamics 365 Business Central 2020 Release Wave 2 - Update 17.8' ; Family = 'Microsoft Dynamics'},
+@{ ID = '11912' ; Name = 'Microsoft Dynamics 365 Business Central 2021 Release Wave 1 - Update 18.3' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
