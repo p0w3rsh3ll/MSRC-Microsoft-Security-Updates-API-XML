@@ -1217,7 +1217,17 @@ $products = @(
 @{ ID = '11955' ; Name = 'Microsoft Dynamics 365 Customer Engagement V9.1' ; Family = 'Microsoft Dynamics'},
 @{ ID = '11956' ; Name = 'Microsoft Exchange Server 2016 Cumulative Update 22' ; Family = 'Exchange Server'},
 @{ ID = '11957' ; Name = 'Microsoft Exchange Server 2019 Cumulative Update 11' ; Family = 'Exchange Server'},
-@{ ID = '11959' ; Name = 'System Center 2012 R2 Operations Manager' ; Family = 'System Center'}
+@{ ID = '11959' ; Name = 'System Center 2012 R2 Operations Manager' ; Family = 'System Center'},
+@{ ID = '11770-11800' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 20H2 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '11770-11801' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 20H2 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '11770-11802' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 20H2 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '11770-11896' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 21H1 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '11770-11897' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 21H1 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '11770-11898' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 10 Version 21H1 for 32-bit Systems' ; Family = 'Browser'},
+@{ ID = '11770-11926' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 11 for x64-based Systems' ; Family = 'Browser'},
+@{ ID = '11770-11927' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 11 for ARM64-based Systems' ; Family = 'Browser'},
+@{ ID = '11960' ; Name = 'FSLogix' ; Family = 'Azure'},
+@{ ID = '11962' ; Name = 'Azure RTOS' ; Family = 'Azure'}
 )
 }
 Process {
