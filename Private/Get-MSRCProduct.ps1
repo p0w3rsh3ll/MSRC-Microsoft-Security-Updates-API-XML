@@ -1227,7 +1227,27 @@ $products = @(
 @{ ID = '11770-11926' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 11 for x64-based Systems' ; Family = 'Browser'},
 @{ ID = '11770-11927' ; Name = 'Microsoft Edge (Chromium-based) in IE Mode on Windows 11 for ARM64-based Systems' ; Family = 'Browser'},
 @{ ID = '11960' ; Name = 'FSLogix' ; Family = 'Azure'},
-@{ ID = '11962' ; Name = 'Azure RTOS' ; Family = 'Azure'}
+@{ ID = '11962' ; Name = 'Azure RTOS' ; Family = 'Azure'},
+@{ ID = '11929' ; Name = 'Windows 10 Version 21H2 for 32-bit Systems' ; Family = 'Windows'},
+@{ ID = '11930' ; Name = 'Windows 10 Version 21H2 for ARM64-based Systems' ; Family = 'Windows'},
+@{ ID = '11931' ; Name = 'Windows 10 Version 21H2 for x64-based Systems' ; Family = 'Windows'},
+@{ ID = '11961' ; Name = 'Microsoft SharePoint Server Subscription Edition' ; Family = 'Microsoft Office'},
+@{ ID = '11963' ; Name = 'Azure Active Directory' ; Family = 'Azure'},
+@{ ID = '11964' ; Name = 'Azure Site Recovery' ; Family = 'Azure'},
+@{ ID = '11965' ; Name = 'Azure Migrate' ; Family = 'Azure'},
+@{ ID = '11966' ; Name = 'Microsoft Edge for iOS' ; Family = 'Browser'},
+@{ ID = '11967' ; Name = 'Microsoft Defender for IoT' ; Family = 'System Center'},
+@{ ID = '11968' ; Name = 'ASP.NET Core 6.0' ; Family = 'Developer Tools'},
+@{ ID = '11969' ; Name = 'Microsoft Visual Studio 2022 version 17.0' ; Family = 'Developer Tools'},
+@{ ID = '11970' ; Name = 'PowerShell 7.2' ; Family = 'Developer Tools'},
+@{ ID = '11971' ; Name = 'Microsoft 4K Wireless Display Adapter' ; Family = 'Device'},
+@{ ID = '11972' ; Name = 'SharePoint Server Subscription Edition Language Pack' ; Family = 'Microsoft Office'},
+@{ ID = '11973' ; Name = 'Office app' ; Family = 'Apps'},
+@{ ID = '11974' ; Name = 'Visual Studio Code WSL Extension' ; Family = 'Developer Tools'},
+@{ ID = '11978' ; Name = 'Microsoft BizTalk ESB Toolkit 2.2' ; Family = 'Developer Tools'},
+@{ ID = '11979' ; Name = 'Microsoft BizTalk ESB Toolkit 2.3' ; Family = 'Developer Tools'},
+@{ ID = '11980' ; Name = 'Microsoft BizTalk ESB Toolkit 2.4' ; Family = 'Developer Tools'},
+@{ ID = '11981' ; Name = 'App Installer' ; Family = 'Apps'}
 )
 }
 Process {
