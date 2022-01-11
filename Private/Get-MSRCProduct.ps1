@@ -1247,7 +1247,20 @@ $products = @(
 @{ ID = '11978' ; Name = 'Microsoft BizTalk ESB Toolkit 2.2' ; Family = 'Developer Tools'},
 @{ ID = '11979' ; Name = 'Microsoft BizTalk ESB Toolkit 2.3' ; Family = 'Developer Tools'},
 @{ ID = '11980' ; Name = 'Microsoft BizTalk ESB Toolkit 2.4' ; Family = 'Developer Tools'},
-@{ ID = '11981' ; Name = 'App Installer' ; Family = 'Apps'}
+@{ ID = '11981' ; Name = 'App Installer' ; Family = 'Apps'},
+@{ ID = '11676-11800' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 20H2 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11801' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 20H2 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11802' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 20H2 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11803' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows Server, version 20H2 (Server Core Installation)' ; Family = 'Developer Tools'},
+@{ ID = '11676-11896' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H1 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11897' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H1 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11898' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H1 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11923' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2022' ; Family = 'Developer Tools'},
+@{ ID = '11676-11924' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows Server 2022 (Server Core installation)' ; Family = 'Developer Tools'},
+@{ ID = '11676-11926' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 11 for x64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11929' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for 32-bit Systems' ; Family = 'Developer Tools'},
+@{ ID = '11676-11930' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for ARM64-based Systems' ; Family = 'Developer Tools'},
+@{ ID = '11958' ; Name = 'Dynamics 365 Sales' ; Family = 'Microsoft Dynamics'}
 )
 }
 Process {
