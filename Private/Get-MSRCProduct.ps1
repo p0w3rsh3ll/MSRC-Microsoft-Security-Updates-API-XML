@@ -1260,7 +1260,16 @@ $products = @(
 @{ ID = '11676-11926' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 11 for x64-based Systems' ; Family = 'Developer Tools'},
 @{ ID = '11676-11929' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for 32-bit Systems' ; Family = 'Developer Tools'},
 @{ ID = '11676-11930' ; Name = 'Microsoft .NET Framework 3.5 AND 4.8 on Windows 10 Version 21H2 for ARM64-based Systems' ; Family = 'Developer Tools'},
-@{ ID = '11958' ; Name = 'Dynamics 365 Sales' ; Family = 'Microsoft Dynamics'}
+@{ ID = '11958' ; Name = 'Dynamics 365 Sales' ; Family = 'Microsoft Dynamics'},
+@{ ID = '0' ; Name = 'Windows Server 2022 Azure Edition Core Hotpatch' ; Family = 'Windows'},
+@{ ID = '12004' ; Name = 'Azure Data Explorer' ; Family = 'Azure'},
+@{ ID = '12005' ; Name = 'Microsoft Dynamics GP' ; Family = 'Microsoft Dynamics'},
+@{ ID = '12006' ; Name = 'SQL Server 2019 for Linux Containers' ; Family = 'SQL Server'},
+@{ ID = '12007' ; Name = 'Microsoft Teams for Android' ; Family = 'Microsoft Office'},
+@{ ID = '12008' ; Name = 'Microsoft Teams Admin Center' ; Family = 'Microsoft Office'},
+@{ ID = '12009' ; Name = '.NET 6.0' ; Family = 'Developer Tools'},
+@{ ID = '12010' ; Name = 'HEVC Video Extension' ; Family = 'Windows'},
+@{ ID = '12011' ; Name = 'PowerBI-client JS SDK' ; Family = 'SQL Server'}
 )
 }
 Process {
